@@ -1,4 +1,4 @@
-# React Native Todo App
+# Todo App (React Native)
 
 A simple **Todo application built with React Native and Expo**, created to demonstrate practical mobile development skills for recruiters and fellow developers.
 
@@ -90,8 +90,7 @@ utils
 
 ## 👤 Author
 
-Rashedin  
-Backend-focused developer expanding into mobile development with React Native.
+Rashedin Islam
 
 ---
 
